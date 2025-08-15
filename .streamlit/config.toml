@@ -1,0 +1,18 @@
+# CyberTrack Vision Configuration
+[theme]
+primaryColor = "#00ff41"
+backgroundColor = "#0a0a0a"
+secondaryBackgroundColor = "#1a1a1a"
+textColor = "#00ff41"
+
+[server]
+port = 8501
+headless = false
+enableCORS = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
