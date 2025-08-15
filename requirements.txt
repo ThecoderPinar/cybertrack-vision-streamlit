@@ -3,7 +3,6 @@ pandas==2.0.3
 plotly==5.15.0
 folium==0.14.0
 streamlit-folium==0.13.0
-wordcloud==1.9.2
 fastapi
 uvicorn
 python-multipart
